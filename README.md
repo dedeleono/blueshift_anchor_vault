@@ -20,6 +20,7 @@ Prerequisites
 
 Repository Layout
 ----------------
+```text
 .
 ├── Anchor.toml                         # Anchor workspace configuration
 ├── Cargo.toml                          # Anchor-program manifest
@@ -36,6 +37,7 @@ Repository Layout
 ├── tsconfig.json                       # TypeScript compiler options
 ├── package.json                        # Test dependencies
 └── README.md                           # This file
+```
 
 Getting Started
 ---------------
