@@ -1,4 +1,4 @@
-Blueshift Anchor Vault
+# Blueshift Anchor Vault
 
 An Anchor-based Solana escrow vault program, part of the Blueshift Pinocchio challenge series.
 This repository demonstrates how to use Anchor’s declarative accounts, PDAs, and CPIs to implement a secure on-chain escrow vault in TypeScript and Rust.
